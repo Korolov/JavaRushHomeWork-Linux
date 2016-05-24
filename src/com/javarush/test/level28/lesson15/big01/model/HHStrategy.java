@@ -2,7 +2,7 @@ package com.javarush.test.level28.lesson15.big01.model;
 
 
 import com.javarush.test.level28.lesson15.big01.vo.Vacancy;
-import org.jsoup.Connection;
+
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
